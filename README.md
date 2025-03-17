@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @AboloreDev
 - 👀 I’m interested in Passionate about creating delightful and responsive user interfaces. I specialize in turning ideas into interactive and visually appealing web applications. Welcome to my GitHub profile!
-- 🌱 I’m currently learning React and Vue.Js
 - I'm always exploring new tools and libraries. Currently, I'm focused on:
   - Improving my performance optimization skills.
-  - Learning about the latest updates in React and Vue.js.
+  - Learning about the latest updates in React, NextJs, Vue.js and backed development
 - Feel free to explore my repositories and reach out if you have any questions or if you're interested in collaborating on a project!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
